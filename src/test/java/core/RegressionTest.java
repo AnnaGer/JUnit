@@ -1,5 +1,5 @@
 package core;
 
-public interface RegressionTest{
+public interface RegressionTest {
 
 }

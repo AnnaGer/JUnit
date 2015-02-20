@@ -7,7 +7,6 @@ import org.junit.runners.Suite.SuiteClasses;
 @RunWith(Suite.class)
 @SuiteClasses({ PrimeNumberCheckerTest.class })
 
-public class AllTests {
-	
+public class AllTests {	
 
 }
